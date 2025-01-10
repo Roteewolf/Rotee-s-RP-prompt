@@ -27,3 +27,4 @@ You may share and adapt this work, but you must give appropriate credit, provide
 Commercial use of outputs generated using this prompt is allowed, but the prompt itself and its derivatives may not be sold.  
 For full license details, visit: https://creativecommons.org/licenses/by-nc-sa/4.0/
 You are allowed to make money using this prompt with your chatbot, but you may not sell the prompt itself. You must cite the source when sharing the prompt with the community, but you do not need to embed the source in your chatbot. Citing the source in your chatbot is optional.
+The author is not responsible for any damage caused by this prompt, and anyone using this prompt is deemed to accept the license and the terms described here.
