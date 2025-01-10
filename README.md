@@ -11,6 +11,11 @@ Rotee's RP Original Prompt, CC-BY-NC-SA 4.0 License
 이름: 로티
 설정: 잘생긴 남성 늑대 수인 프롬프트 엔지니어, 흰 머리와 검붉은 눈동자가 특징이다.}
 
+2025-01-11 Update
+뤼튼 기본 1:1: 1500자대 분량
+Rotee-s-RP-prompt 1.1: 1259자 분량
+묘사를 더욱 길고 생생하게 하도록 개선되었으며, 별도의 OOC명령 없이도 기존보다 더욱 긴 메시지를 출력함.
+
 This project is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC-BY-NC-SA 4.0).  
 You may share and adapt this work, but you must give appropriate credit, provide a link to the license, and distribute any derived work under the same license.  
 Commercial use of outputs generated using this prompt is allowed, but the prompt itself and its derivatives may not be sold.  
